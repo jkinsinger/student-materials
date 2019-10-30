@@ -1,46 +1,68 @@
-# Title
+# “Encouraging Moms” Business Requirements
 
 ## Executive Summary
 
-*Your executive summary should be pretty brief, under 3 paragraphs and should provide a concise summary of the purpose and contents of the rest of the document.  Explain to the reader what they will get from this document.*
+*This document will provide the structure and direction for a mobile app & web application creation for encouraging, connecting, and uplifting moms all over. This project will be referred to “Encouraging Moms” throughout this document. The goals for this document are to bring together the thoughts and ideas that have been rolling around in my head that God has given me a passion for, and put it in an organized fashion so we can begin to launch this amazing mobile app and web application to encourage and uplift Moms.*
 
 ## Business Objectives
 
-*Business objectives should offer the details for why the project is important.  Outline the goals of the project int he sense of the value it will bring and set expectations.  Keep your objectives measurable to avoid confusion in whether or not they have been met.*
+*The main objective for “Encouraging Moms” is to have create a place where moms can connect and be encouraged. In many ways, it will be a lifeline for moms. There will be a mobile app and web application which will all free for moms to use, there will be no monthly subscription or service fee.*
 
 ## Background
 
-*Provide any relevant background information regarding why this project is being initiated*
+*This project is being initiated because there are so many moms out there that are just surviving with parenting and my heart just goes out to them. My heart is for them to thrive, enjoy parenting, and being with their kids. I also know that every mom out there has some great successful ideas with parenting, and I want to be able to create somewhere where they can share, and they can gain wisdom from each other.*
 
 ## Scope
 
-*The Scope section should outline what is and is not included as part of this project.  Oftentimes we make assumptions of features or functionality that is not necessarily required.  This is especially useful in a phased approach or when working on an existing system.*
+* “Encouraging Moms” will be built on and have Christian foundations, so it will reach mainly young Christians moms. The main goal is not to connect moms, but to support and encourage young moms. However, I believe one of the ways to support and encourage moms is through connections with other moms. This is not a social media app or site.
+As of right now, I don’t have a specific system(s) we will use to create this app, I’m open to ideas. However, for now we’ll plan on using Angular and Ionic for our mobile app.
+*
 
 ## Functional requirements
 
-*This is where most of the detail should reside.  describe all of the required capabilities of the system in detail.  It is helpful to articulate features in terms of user capabilities.  Keep in mind that the features will be designed and developed off of these descriptions, so if you leave anything up to interpretation, you run the risk of the results not meeting your expectations.  You can also assume capabilities that are not mentioned here will not be included in the project, no matter how common or obvious they are.  You may want to break our subsections for each major feature to make the document more organized.*
+*Functional requirements for "Encouraging Moms" are as follows:
+-	A place where moms can login and out
+-	A profile where they can put the city/state they live in and any other personal information they feel comfortable sharing to be able to connect and possibly get together and/or have arrange times playdates for their kids.
+-	A place where moms are able to post advise and tips in parenting anywhere from craft ideas to different potty-training techniques, and then moms will be able to search for tips and advice using key words to read what others have posted.
+-	A place where moms can post (share) prayer requests and see when people are praying for them.
+-	A place where moms can share praise reports.
+-	A place where moms can post the need for encouragement and others can respond.
+-	A place where moms can post funny stories and jokes and others can read them and get a good laugh.
+This mobile app and web application needs to be running smoothly and quickly with the rare case erros. "Encouraging Moms" needs be be easy to use and get around on.*
 
 
 ## Personnel requirements
 
-*In this section you may want to describe the composition of the team, do you need dedicated development?  how many people?  How about design or QA?  Think about what personnel is required to make this project a success, and place your recommendations here.*
+*I don’t think we need dedicated development. My rough approximate number of people on a time will be 5-10 people (this is my first project) who have the same vision I have…”to encourage and uplift moms”.  I believe in order to make a successful mobile app and web application, there should be some moms on our team to give us input on what would be helpful and what wouldn’t. I have never been a mom, so I don’t know what everything they do and do not struggle with.*
 
 ## Delivery schedule
 
-*It's often helpful to break a project out into phases or milestones.  In this section list out any logical checkpoints where you would like to see the project demonstrated to ensure that expectations are being met.  Describe the phase, and the functional requirements required for completion.*
+*Our tentative schedule is:
+1.	Planning and Brainstorming (Requirements): 4-5 weeks
+2.	Rough Look/Draft/Routing (Design): 4-6 weeks 
+3.	Creation of the web application (Implementation): 4-6 weeks
+4.	Creation of the mobile app (Implementations): 4-6 weeks
+5.	Verifying and Debugging (Verification): 3-4 weeks
+6.	Upkeep (Maintenance): Continuous after launch
+The plan is to try to meet up to 2-3 times a week via in person or video call.
+*
 
 ## Other requirements
 
-*This section serves as a catch-all for any details that may not fit in other areas.  things like device or browser support, considerations for accessibility or inspiration for style.  Offer additional context here to ensure the project meets your vision*
+*“Encouraging Moms” is planned to be supported on both android and apple devices. It needs to be pretty bug free and running really smoothly, so it won’t cause lots problems. I don’t want it to be hard for moms to use because time can be pretty scarce as a mom. *
 
 ## Assumptions
 
-*Oftentimes we are reliant on outside sources such as frameworks to be used, or services that our system will depend on.  In this section you should provide detail on any assumptions that you have made, such as the system being reliant on the availability of the Google Maps API.*
+*I’m not thinking of any outside sources or services we will use as of now. I am open to ideas…like possibly already having a database of tips/advise and humor.*
 
 ## Limitations
 
-*Identify any limitations in terms of time, personnel, technical details, or other things that limit the scope, time, and cost of the project being discussed.*
+*I’m not sure about the cost scope of this project, I don’t even have a ballpark. 
+I have written some things down as a rough estimate for the timeline, but I know I could be totally off because I am not planning to have any dedicated development. This project will be more like a on the side project than a big full-time job project. So, time could definitely be a limitation.
+*
 
 ## Risks
 
-*Every project has inherent risks that may cause delay or even failure of a project.  You must identify this risks to show you know what they are, and also identify ways in which you would mitigate those risks.*
+*The major risk is that this is my first time doing anything like this. I have an idea and I want to implement it, but I’m not sure exactly how to go about it, and if it will even work. 
+Another risk is that this may not be something moms are interested in or want to be invested in. So, I believe we should take a poll on moms to see how big the interest level is for this about  mobile app and web application.
+*
