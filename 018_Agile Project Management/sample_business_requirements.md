@@ -64,5 +64,5 @@ I have written some things down as a rough estimate for the timeline, but I know
 ## Risks
 
 The major risk is that this is my first time doing anything like this. I have an idea and I want to implement it, but I’m not sure exactly how to go about it, and if it will even work. 
-Another risk is that this may not be something moms are interested in or want to be invested in. So, I believe we should take a poll on moms to see how big the interest level is for this about  mobile app and web application.
+Another risk is that this may not be something moms are interested in or want to be invested in. So, I believe we should take a poll on moms to see how big the interest level is for this about  mobile app and web application. Another risk I see is the vision and reason for me creating this app…I don’t want it to be misunderstood or changed. This mobile app and web application is not to say which parenting way is the best or that all moms have to follow a particular ways or advice. It’s to give ideas. All posts will be kind or else deleted. This app is to encourage and uplift, and anything short of that will not be accepted. I think it’s important to have people with the same vision working on the team. And communication will be key with whatever team is composed.
 
